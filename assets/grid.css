@@ -1,7 +1,7 @@
 :root {
   --nav-height: 54px;
-  --textcolor: #000;
-  --hover-bg: #f1f1f1;
+  --textcolor: red;
+  --hover-bg: #000000;
   --active-bg: #dbdbdb;
   font-size: calc(1rem + 0.2vw);
 }
@@ -14,7 +14,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   letter-spacing: -0.3px;
   text-rendering: optimizeLegibility;
-background-color: black;
+background-color: #000000;
 }
 .main-title {
   font-size: 3rem;
