@@ -44,8 +44,8 @@
           >
             <img
               style="height:29px;width:auto;"
-              src="~/assets/deploy.svg"
-              title="Deploy to Netlify"
+              src="~/assets/"
+              title=""
             />
           </a>
         </div>
@@ -53,8 +53,8 @@
       <div class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none">
         <div class="item xs-text-6">
           <a href="https://github.com/jake-101/bael-template">Bael</a>
-          <span class="small-txt" v-if="version">{{version}}</span>, An open source design by
-          <a href="https://jake101.com">jake101</a>
+          <span class="small-txt" v-if="version">{{version}}</span>, 
+          <a href="https://jake101.com"></a>
         </div>
       </div>
     </div>
